@@ -17,7 +17,7 @@ El **Cuarteto de Anscombe** es un conjunto de cuatro conjuntos de datos que tien
 
 ### El Cuarteto de Anscombe
 
-![Cuarteto de Anscombe](https://es.wikipedia.org/wiki/Cuarteto_de_Anscombe)
+![Cuarteto de Anscombe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Anscombe.svg/1200px-Anscombe.svg.png)
 
 ### Referencias
 
