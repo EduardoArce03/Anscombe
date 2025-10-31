@@ -17,14 +17,7 @@ El **Cuarteto de Anscombe** es un conjunto de cuatro conjuntos de datos que tien
 
 ### El Cuarteto de Anscombe
 
-Cada conjunto de datos tiene 11 puntos de datos con las siguientes características:
-
-- Conjunto 1: Datos que se ajustan perfectamente a una línea recta.
-- Conjunto 2: Datos que se ajustan a una parábola.
-- Conjunto 3: Datos con una distribución que incluye un valor atípico.
-- Conjunto 4: Datos con una distribución que incluye un valor atípico, pero con una forma diferente a la del Conjunto 3.
-
-![Cuarteto de Anscombe](https://upload.wikimedia.org/wikipedia/commons/6/69/Anscombe%27s_quartet_in_R.png)
+![Cuarteto de Anscombe](https://es.wikipedia.org/wiki/Cuarteto_de_Anscombe)
 
 ### Referencias
 
