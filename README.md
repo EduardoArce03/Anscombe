@@ -33,5 +33,3 @@ Cada conjunto de datos tiene 11 puntos de datos con las siguientes característi
 
 ---
 
-   ```bash
-   git clone https://github.com/tu_usuario/Anscombe.git
